@@ -1,0 +1,37 @@
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\WpfMyMood.exe.config
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\WpfMyMood.exe
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\WpfMyMood.pdb
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\System.Data.SQLite.dll
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\System.Data.SQLite.xml
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\MainWindow.g.cs
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\App.g.cs
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood_MarkupCompile.cache
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood_MarkupCompile.lref
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\MainWindow.baml
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.g.resources
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.Properties.Resources.resources
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.csproj.GenerateResource.Cache
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.exe
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.pdb
+C:\Users\tsdi01\Documents\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.csprojResolveAssemblyReference.cache
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\WpfMyMood.exe.config
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.exe
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.pdb
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\WpfMyMood.exe
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\WpfMyMood.pdb
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\itextsharp.dll
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\System.Data.SQLite.dll
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\itextsharp.xml
+F:\PROJETS\MyMood\MyMood\WpfMyMood\bin\Release\System.Data.SQLite.xml
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.csprojResolveAssemblyReference.cache
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\MainWindow.g.cs
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\App.g.cs
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood_MarkupCompile.cache
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood_MarkupCompile.lref
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\MainWindow.baml
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.g.resources
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.Properties.Resources.resources
+F:\PROJETS\MyMood\MyMood\WpfMyMood\obj\Release\WpfMyMood.csproj.GenerateResource.Cache
+G:\Projet 0 - Mood\MyMood\WpfMyMood\bin\Release\WpfMyMood.exe.config
+G:\Projet 0 - Mood\MyMood\WpfMyMood\obj\Release\WpfMyMood.exe
+G:\Projet 0 - Mood\MyMood\WpfMyMood\obj\Release\WpfMyMood.pdb
